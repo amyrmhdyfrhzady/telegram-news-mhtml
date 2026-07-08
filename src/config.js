@@ -1,14 +1,30 @@
 export default {
   channels: [
-    {
-      name: "Vahid",
-      url: "https://t.me/s/VahidOnline",
-    },
-    {
-      name: "test",
-      url: "https://t.me/s/test_1388",
-    },
-  ],
+  {
+    name: "Vahid",
+    url: "https://t.me/s/VahidOnline",
+  },
+  {
+    name: "IranIntl",
+    url: "https://t.me/s/IranintlTV",
+  },
+  {
+    name: "BBC Persian",
+    url: "https://t.me/s/bbcpersian",
+  },
+  {
+    name: "Radio Farda",
+    url: "https://t.me/s/radiofarda_official",
+  },
+  {
+    name: "VOA Persian",
+    url: "https://t.me/s/farsivoa",
+  },
+  {
+    name: "Manoto",
+    url: "https://t.me/s/ManotoTV",
+  },
+],
 
   browser: {
     headless: true,
