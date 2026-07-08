@@ -6,5 +6,25 @@
     "test": {
         "lastMessageId": null,
         "hash": "8a51708af1251835a8593f979b22179f86b4c8839c5f12453f74a28e9ec5c9cb"
+    },
+    "IranIntl": {
+        "lastMessageId": null,
+        "hash": "ceb37693430e1b25952db09a92de603e9b45b6e68d695ccb1a272925b49885aa"
+    },
+    "BBC Persian": {
+        "lastMessageId": null,
+        "hash": "15d637b0eb2e1b5757be0f2517e2acf5b2af12b81b8e889cbfe4a7d11a5b4b57"
+    },
+    "Radio Farda": {
+        "lastMessageId": null,
+        "hash": "7446434e60cf1850fff9a7e4265b6902623023615d88b4a88f984c123c5465e4"
+    },
+    "VOA Persian": {
+        "lastMessageId": null,
+        "hash": "8d3e97e2c9a739c0c06a52947c7c71ba34a384711d34aaec5160d72446f7ca00"
+    },
+    "Manoto": {
+        "lastMessageId": null,
+        "hash": "f2ed57180a8d84795d938fa713c926071520a42a3a8e836c134840170a9de65a"
     }
 }
