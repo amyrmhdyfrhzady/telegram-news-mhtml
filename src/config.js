@@ -1,15 +1,13 @@
 export default {
   channels: [
     {
-      name: "VahidOnline",
+      name: "Vahid",
       url: "https://t.me/s/VahidOnline",
     },
-
-    // مثال:
-    // {
-    //     name: "Tasnim",
-    //     url: "https://t.me/s/TasnimNews"
-    // }
+    {
+      name: "test",
+      url: "https://t.me/s/test_1388",
+    },
   ],
 
   browser: {
