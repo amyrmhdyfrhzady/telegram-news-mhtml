@@ -35,26 +35,6 @@ export async function fetchChannel(channel) {
 
       await page.waitForTimeout(config.browser.waitAfterLoad);
 
-      const posts = await page.$$eval(".tgme_widget_message_wrap", (nodes) => {
-        return nodes.map((node) => {
-          const idText = node.id.replace("post-", "");
-
-          const id = Number(idText.split("_")[1]);
-
-          const text =
-            node.querySelector(".tgme_widget_message_text")?.innerText ?? "";
-
-          const caption =
-            node.querySelector(".tgme_widget_message_caption")?.innerText ?? "";
-
-          return {
-            id,
-            text,
-            caption,
-          };
-        });
-      });
-
       await fs.mkdir(config.output.folder, {
         recursive: true,
       });
@@ -76,7 +56,6 @@ export async function fetchChannel(channel) {
 
       return {
         file,
-        posts,
       };
     } catch (e) {
       lastError = e;
