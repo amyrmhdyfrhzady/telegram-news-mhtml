@@ -26,7 +26,7 @@ export default {
   },
   {
     name: "توضیحات و نحوه استفاده از پروژه",
-    url: "https://github.com/amyrmhdyfrhzady/telegram-news-mhtml/blob/main/README.md",
+    url: "https://github.com/amyrmhdyfrhzady/telegram-news-mhtml",
   },
 ],
 
