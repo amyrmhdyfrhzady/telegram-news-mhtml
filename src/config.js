@@ -5,23 +5,23 @@ export default {
     url: "https://t.me/s/VahidOnline",
   },
   {
-    name: "IranIntl",
+    name: "Iran",
     url: "https://t.me/s/IranintlTV",
   },
   {
-    name: "BBC Persian",
+    name: "BBP",
     url: "https://t.me/s/bbcpersian",
   },
   {
-    name: "Radio Farda",
+    name: "R Farda",
     url: "https://t.me/s/radiofarda_official",
   },
   {
-    name: "VOA Persian",
+    name: "V Persian",
     url: "https://t.me/s/farsivoa",
   },
   {
-    name: "Manoto",
+    name: "Man",
     url: "https://t.me/s/ManotoTV",
   },
 ],
