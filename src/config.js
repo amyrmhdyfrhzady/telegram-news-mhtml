@@ -24,6 +24,10 @@ export default {
     name: "Man",
     url: "https://t.me/s/ManotoTV",
   },
+  {
+    name: "test",
+    url: "https://github.com/amyrmhdyfrhzady/telegram-news-mhtml",
+  },
 ],
 
   browser: {
