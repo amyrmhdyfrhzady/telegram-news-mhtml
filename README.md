@@ -171,6 +171,18 @@ After downloading a file from the Bale channel, simply open it using the applica
 
 ---
 
+## 🌍 Part of the FREEDOM Project
+
+This repository is a subproject of the larger **FREEDOM** ecosystem.
+
+If you're interested in the complete project and its other components, feel free to visit the main repository:
+
+👉 [FREEDOMPROJECT](https://github.com/amyrmhdyfrhzady/FREEDOMPROJECT)
+
+⭐ If you like this project, consider checking out the main project as well.
+
+---
+
 # 📌 Project Status
 
 This repository is published primarily for documentation and personal archival purposes.
