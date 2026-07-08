@@ -29,29 +29,22 @@ async function main() {
         continue;
       }
 
-      const lastSavedId = getLastMessageId(state, channel.name);
+      const newestPost =
+    posts[posts.length - 1];
 
-      const newPosts = posts
-        .filter((post) => post.id > lastSavedId)
-        .sort((a, b) => a.id - b.id);
+const hash = sha256(
 
-      if (!newPosts.length) {
-        info(`${channel.name}: no new posts`);
+    JSON.stringify(
 
-        continue;
-      }
-
-      const newestPost = newPosts[newPosts.length - 1];
-
-      const hash = sha256(
-        JSON.stringify(
-          newPosts.map((post) => ({
+        posts.map(post => ({
             id: post.id,
             text: post.text,
-            caption: post.caption,
-          })),
-        ),
-      );
+            caption: post.caption
+        }))
+
+    )
+
+);
 
       await sendFile(file);
 
