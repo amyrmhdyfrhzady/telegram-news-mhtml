@@ -10,7 +10,7 @@ import { info, error } from "./logger.js";
         try {
             const { file } = await fetchChannel(channel);
 
-            await sendFile(channel, file);
+            await sendFile(file);
 
             info(`${channel.name} sent successfully`);
         } catch (err) {
