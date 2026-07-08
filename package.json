@@ -1,0 +1,27 @@
+{
+  "name": "telegram-news-mhtml",
+  "version": "1.0.0",
+  "description": "Telegram News MHTML Bot",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js",
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [
+    "telegram",
+    "bale",
+    "playwright",
+    "mhtml",
+    "news"
+  ],
+  "author": "Amirmahdi",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.18.1",
+    "form-data": "^4.0.6",
+    "git": "^0.1.5",
+    "playwright": "^1.61.1"
+  }
+}
