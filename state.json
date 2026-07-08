@@ -26,5 +26,25 @@
     "Manoto": {
         "lastMessageId": null,
         "hash": "f2ed57180a8d84795d938fa713c926071520a42a3a8e836c134840170a9de65a"
+    },
+    "Iran": {
+        "lastMessageId": null,
+        "hash": "516e6484bec6947bc99824f9a05f820e4a8dbd983063f8035f94a839ab723672"
+    },
+    "BBP": {
+        "lastMessageId": null,
+        "hash": "b2c14b34989911b5cc91c1eb210f3bb70ae1c90266050a5e10f30177833d3520"
+    },
+    "R Farda": {
+        "lastMessageId": null,
+        "hash": "7446434e60cf1850fff9a7e4265b6902623023615d88b4a88f984c123c5465e4"
+    },
+    "V Persian": {
+        "lastMessageId": null,
+        "hash": "b49a7e72cb15e167d542c14b3ba9592eb7d30ae1986b8c79a146d8013795c3fa"
+    },
+    "Man": {
+        "lastMessageId": null,
+        "hash": "f2ed57180a8d84795d938fa713c926071520a42a3a8e836c134840170a9de65a"
     }
 }
