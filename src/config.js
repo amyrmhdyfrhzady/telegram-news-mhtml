@@ -25,8 +25,8 @@ export default {
     url: "https://t.me/s/ManotoTV",
   },
   {
-    name: "test",
-    url: "https://github.com/amyrmhdyfrhzady/telegram-news-mhtml",
+    name: "توضیحات و نحوه استفاده از پروژه",
+    url: "https://github.com/amyrmhdyfrhzady/telegram-news-mhtml/blob/main/README.md",
   },
 ],
 
