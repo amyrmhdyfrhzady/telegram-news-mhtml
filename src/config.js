@@ -25,8 +25,16 @@ export default {
     url: "https://t.me/s/ManotoTV",
   },
   {
-    name: "توضیحات و نحوه استفاده از پروژه",
-    url: "https://github.com/amyrmhdyfrhzady/telegram-news-mhtml",
+    name: "اخبار فوری",
+    url: "https://t.me/s/M0_HM",
+  },
+  {
+    name: "تهران آنلاین",
+    url: "https://t.me/s/TehOnline_ir",
+  },
+  {
+    name: "صفحه اصلی پروژه",
+    url: "https://github.com/amyrmhdyfrhzady/FREEDOMPROJECT",
   },
 ],
 
