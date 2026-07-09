@@ -21,12 +21,16 @@ export async function fetchChannel(channel) {
       info(`Opening ${channel.name} (Attempt ${attempt})`);
 
       browser = await chromium.launch({
-        headless: config.browser.headless,
+      headless: config.browser.headless,
       });
 
-      const page = await browser.newPage({
-        viewport: config.browser.viewport,
+      const context = await browser.newContext({
+      viewport: config.browser.viewport,
+      timezoneId: "Asia/Tehran",
+      locale: "fa-IR",
       });
+
+      const page = await context.newPage();
 
       await page.goto(channel.url, {
         waitUntil: "networkidle",
