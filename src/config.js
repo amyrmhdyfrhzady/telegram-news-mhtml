@@ -1,42 +1,54 @@
 export default {
   channels: [
-  {
-    name: "Vahid",
-    url: "https://t.me/s/VahidOnline",
-  },
-  {
-    name: "Iran",
-    url: "https://t.me/s/IranintlTV",
-  },
-  {
-    name: "BBP",
-    url: "https://t.me/s/bbcpersian",
-  },
-  {
-    name: "R Farda",
-    url: "https://t.me/s/radiofarda_official",
-  },
-  {
-    name: "V Persian",
-    url: "https://t.me/s/farsivoa",
-  },
-  {
-    name: "Man",
-    url: "https://t.me/s/ManotoTV",
-  },
-  {
-    name: "اخبار فوری",
-    url: "https://t.me/s/M0_HM",
-  },
-  {
-    name: "تهران آنلاین",
-    url: "https://t.me/s/TehOnline_ir",
-  },
-  {
-    name: "صفحه اصلی پروژه",
-    url: "https://github.com/amyrmhdyfrhzady/FREEDOMPROJECT",
-  },
-],
+    {
+      name: "Vahid1",
+      url: "https://t.me/s/VahidOnline",
+    },
+    {
+      name: "Iran2",
+      url: "https://t.me/s/IranintlTV",
+    },
+    {
+      name: "BBP3",
+      url: "https://t.me/s/bbcpersian",
+    },
+    {
+      name: "R Farda4",
+      url: "https://t.me/s/radiofarda_official",
+    },
+    {
+      name: "V Persian5",
+      url: "https://t.me/s/farsivoa",
+    },
+    {
+      name: "Man6",
+      url: "https://t.me/s/ManotoTV",
+    },
+    {
+      name: "fori7",
+      url: "https://t.me/s/M0_HM",
+    },
+    {
+      name: "Evin8",
+      url: "https://t.me/s/Evin_khabar",
+    },
+    {
+      name: "Khabari9",
+      url: "https://t.me/s/khabari_18",
+    },
+    {
+      name: "Khabar10",
+      url: "https://t.me/s/khabarehir",
+    },
+    {
+      name: "ManZad11",
+      url: "https://t.me/s/man_zad1",
+    },
+    {
+      name: "صفحه اصلی پروژه",
+      url: "https://github.com/amyrmhdyfrhzady/FREEDOMPROJECT",
+    },
+  ],
 
   browser: {
     headless: true,
