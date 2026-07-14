@@ -49,6 +49,10 @@ export default {
       url: "https://t.me/s/withyashar",
     },
     {
+      name: "iranINTMonitor",
+      url: "https://t.me/s/irnetmonitor",
+    },
+    {
       name: "صفحه اصلی پروژه",
       url: "https://github.com/amyrmhdyfrhzady/FREEDOMPROJECT",
     },
