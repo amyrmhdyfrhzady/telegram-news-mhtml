@@ -45,6 +45,10 @@ export default {
       url: "https://t.me/s/man_zad1",
     },
     {
+      name: "yashar",
+      url: "https://t.me/withyashar",
+    },
+    {
       name: "صفحه اصلی پروژه",
       url: "https://github.com/amyrmhdyfrhzady/FREEDOMPROJECT",
     },
@@ -55,7 +59,7 @@ export default {
 
     timeout: 60000,
 
-    waitAfterLoad: 3000,
+    waitAfterLoad: 4000,
 
     viewport: {
       width: 1440,
