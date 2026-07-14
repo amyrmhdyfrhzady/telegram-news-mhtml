@@ -46,7 +46,7 @@ export default {
     },
     {
       name: "yashar",
-      url: "https://t.me/withyashar",
+      url: "https://t.me/s/withyashar",
     },
     {
       name: "صفحه اصلی پروژه",
