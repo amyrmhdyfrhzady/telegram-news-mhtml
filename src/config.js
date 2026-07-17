@@ -1,3 +1,9 @@
+export const BOT_TOKEN = process.env.BOT_TOKEN;
+
+export const WEBHOOK_SECRET =
+  process.env.WEBHOOK_SECRET || "FreedomProject";
+
+export const MAX_DOWNLOAD_SIZE = 50 * 1024 * 1024;
 export default {
   channels: [
     {
