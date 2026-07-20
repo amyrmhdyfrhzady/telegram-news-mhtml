@@ -53,6 +53,10 @@ export default {
       url: "https://t.me/s/irnetmonitor",
     },
     {
+      name: "WorldmapMonitor",
+      url: "https://www.worldmonitor.app/dashboard?ref=welcome-hero",
+    },
+    {
       name: "صفحه اصلی پروژه",
       url: "https://github.com/amyrmhdyfrhzady/FREEDOMPROJECT",
     },
