@@ -49,8 +49,8 @@ export default {
       url: "https://t.me/s/withyashar",
     },
     {
-      name: "iranINTMonitor",
-      url: "https://t.me/s/irnetmonitor",
+      name: "WorldmapMonitor",
+      url: "https://www.worldmonitor.app/dashboard?ref=welcome-hero",
     },
     {
       name: "صفحه اصلی پروژه",
@@ -77,8 +77,7 @@ export default {
     extension: ".mhtml",
   },
 };
- width: 1440,
-      height: 900,
+00,
     },
   },
 
