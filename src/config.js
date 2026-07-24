@@ -53,10 +53,6 @@ export default {
       url: "https://t.me/s/irnetmonitor",
     },
     {
-      name: "WorldmapMonitor",
-      url: "https://www.worldmonitor.app/dashboard?ref=welcome-hero",
-    },
-    {
       name: "صفحه اصلی پروژه",
       url: "https://github.com/amyrmhdyfrhzady/FREEDOMPROJECT",
     },
@@ -71,6 +67,17 @@ export default {
 
     viewport: {
       width: 1440,
+      height: 900,
+    },
+  },
+
+  output: {
+    folder: "./temp",
+
+    extension: ".mhtml",
+  },
+};
+ width: 1440,
       height: 900,
     },
   },
