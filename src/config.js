@@ -54,7 +54,7 @@ export default {
     },
     {
       name: "Rasadpage",
-      url: "https://itsyebekhe.github.io/rasadai/",
+      url: "https://t.me/s/RasadAIOfficial",
     },
   ],
 
