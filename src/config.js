@@ -53,8 +53,8 @@ export default {
       url: "https://t.me/s/irnetmonitor",
     },
     {
-      name: "صفحه اصلی پروژه",
-      url: "https://github.com/amyrmhdyfrhzady/FREEDOMPROJECT",
+      name: "Rasadpage",
+      url: "https://itsyebekhe.github.io/rasadai/",
     },
   ],
 
