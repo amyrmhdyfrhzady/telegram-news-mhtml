@@ -56,6 +56,10 @@ export default {
       name: "Rasadpage",
       url: "https://t.me/s/RasadAIOfficial",
     },
+    {
+      name: "Rasadpage",
+      url: "https://t.me/s/iranalert1",
+    },
   ],
 
   browser: {
